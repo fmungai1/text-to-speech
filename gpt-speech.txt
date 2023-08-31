@@ -1,10 +1,10 @@
 Ladies and gentlemen, distinguished guests, and fellow tech enthusiasts,
 
-Thank you for joining me today as we delve into a topic that is shaping the very fabric of our future: Artificial Intelligence. As the CEO of [Company Name], I am both honored and excited to stand before you to discuss the incredible journey that AI has taken us on, and the limitless potential it holds for reshaping industries, advancing human capabilities, and driving innovation to unparalleled heights.
+Thank you for joining me today as we delve into a topic that is shaping the very fabric of our future: Artificial Intelligence. As the Director of IT at Safaricom, I am both honored and excited to stand before you to discuss the incredible journey that AI has taken us on, and the limitless potential it holds for reshaping industries, advancing human capabilities, and driving innovation to unparalleled heights.
 
 We find ourselves at the forefront of a technological revolution that is transcending boundaries and challenging conventional norms. Artificial Intelligence is not just a buzzword; it is a catalyst for transformation across sectors and a testament to human ingenuity. From healthcare to finance, manufacturing to entertainment, AI is empowering us to tackle complex problems with unparalleled precision and efficiency.
 
-At [Company Name], we are not only riding this wave of change, but we are also at the helm of steering it in the right direction. Our team of brilliant minds, engineers, and data scientists are working tirelessly to develop AI solutions that enhance lives, amplify business operations, and drive positive societal impact.
+At Safaricom, we are not only riding this wave of change, but we are also at the helm of steering it in the right direction. Our team of brilliant minds, engineers, and data scientists are working tirelessly to develop AI solutions that enhance lives, amplify business operations, and drive positive societal impact.
 
 The beauty of AI lies not just in its ability to process data, but in its capacity to learn, adapt, and evolve. Machine Learning algorithms are unlocking insights from mountains of data, enabling us to make informed decisions that were previously beyond our reach. Whether it's predicting market trends, personalizing user experiences, or accelerating drug discovery, AI is enhancing our cognitive abilities in ways that were once relegated to the realm of science fiction.
 
