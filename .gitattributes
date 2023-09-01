@@ -1,13 +1,10 @@
 # Normalize all files
 * text=auto
-
 # Shell script
 *.sh text eol=lf
-
 # Binary
 *.png binary
 *.jpg binary
-*.wav binary
-
+*.wav filter=lfs diff=lfs merge=lfs -text
 # Jupyter notebook
 *.ipynb text eol=lf
