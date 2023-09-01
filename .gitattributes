@@ -1,0 +1,13 @@
+# Normalize all files
+* text=auto
+
+# Shell script
+*.sh text eol=lf
+
+# Binary
+*.png binary
+*.jpg binary
+*.wav binary
+
+# Jupyter notebook
+*.ipynb text eol=lf
